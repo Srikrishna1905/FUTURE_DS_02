@@ -77,6 +77,6 @@ This dashboard was built to answer key business questions:
 ## 👨‍💻 Author
 **Srikrishna Paul**  
 *Data Analytics & Visualization Enthusiast*  
-📧 Contact: *(your email if you want to share)*  
+📧 Contact: srikrishnapaul59@gmail.com
 
 ---
